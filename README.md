@@ -1,12 +1,3 @@
-<p align="center">
-  <a href="https://suajornadadedados.com.br/"><img src="https://github.com/lvgalvao/data-engineering-roadmap/raw/main/pics/logo.png" alt="Jornada de Dados"></a>
-</p>
-<p align="center">
-    <em>Nossa missão é fornecer o melhor ensino em engenharia de dados</em>
-</p>
-
-Bem-vindo a **Jornada de Dados**
-
 # Monitoramento de Preço com Web Scraping e Notificações no Telegram
 
 Este projeto realiza o monitoramento de preços de produtos em sites de e-commerce. Utilizando técnicas de web scraping, o projeto coleta preços e envia notificações no Telegram quando o valor atinge um limite específico definido pelo usuário. A aplicação é modular, dividida em partes para facilitar o desenvolvimento e a manutenção.
